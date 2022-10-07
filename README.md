@@ -9,6 +9,11 @@ $docker compose up -d
 http://localhost:8080/
 データベース管理画面
 http://localhost:8081/
+
+
+dockerの終了
+$ docker compose down
+
 -->
 
 
